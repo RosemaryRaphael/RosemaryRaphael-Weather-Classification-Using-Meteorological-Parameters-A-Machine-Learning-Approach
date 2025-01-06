@@ -1,0 +1,2 @@
+# RosemaryRaphael-Weather-Classification-Using-Meteorological-Parameters-A-Machine-Learning-Approach
+This project combines clustering and supervised learning techniques to classify weather patterns, enhancing decision-making and predictive capabilities. All necessary packages are pre-installed in the accompanying Jupyter Notebook file, which is compatible with Anaconda3 and can be run directly in a Jupyter environment.
